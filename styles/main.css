@@ -36,3 +36,14 @@ body {
   color: white;
   font-size: 30px;
 }
+@media screen and (min-width: 768px) {
+  .fondo-verde h2 {
+    font-size: 16px;
+  }
+  .logo {
+    justify-content: left;
+  }
+  .menu-principal {
+    justify-content: right;
+  }
+}
